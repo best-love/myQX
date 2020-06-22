@@ -1,6 +1,2 @@
 # QuantumultX
-
-个人QuantumultX相关配置及js脚本
-vip文件夹为重写文件夹
-rebuy文件夹为恢复购买重写文件
-task文件夹为定时任务
+计划中
